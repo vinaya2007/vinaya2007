@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=vinaya2007&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/vinaya2007)
 [![Gmail](https://img.shields.io/badge/Gmail-vinayavinodh07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinayavinodh07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinaya%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaya-v-667786325/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://github.com/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://github.com/vinaya2007/Portfolio)
 
 </div>
 
@@ -194,14 +194,13 @@ print(me.motto())
 
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
-| 🏆 | **Smart India Hackathon 2025** | Selected team contributor — built functional website prototype for national-level hackathon |
+| 🏆 | **Smart India Hackathon 2025** | Selected team Leader — built functional website prototype for national-level hackathon |
 | 🎓 | **CGPA 9.66 / 10** | B.Tech ECE, SRM Institute of Science and Technology, Vadapalani |
+| 🤝 | **Industry Experience at Year 1** | Secured 3 internships before completing Year 2 of B.Tech |
+| 🏛️ | **Secretary (BOD)** | InkVerse Club, SRMIST Vadapalani — mentored juniors, managed events and finances |
+| 💼 | **10+ Projects Built** | Across full-stack web and AI/ML domains, spanning multiple industries |
 | 📜 | **MERN Stack Masterclass** | Certified by NoviTech R&D Pvt Ltd — Feb 2025 to Mar 2025 |
 | 📜 | **Full Stack Web Development** | Udemy Certification — Oct 2025 to Present |
-| 🤝 | **Industry Experience at Year 1** | Secured 2 internships & 1 full-time role before completing Year 2 of B.Tech |
-| 🏛️ | **Secretary (BOD) & Treasurer** | InkVerse Club, SRMIST Vadapalani — mentored juniors, managed events and finances |
-| 💼 | **10+ Projects Built** | Across full-stack web and AI/ML domains, spanning multiple industries |
-
 </div>
 
 ---
