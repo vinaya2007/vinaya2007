@@ -17,6 +17,37 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+```python
+class VinayaV:
+    def __init__(self):
+        self.name        = "Vinaya V"
+        self.location    = "Tamil Nadu, India 🇮🇳"
+        self.degree      = "B.Tech ECE @ SRMIST Vadapalani (CGPA: 9.66)"
+        self.role        = "Full Stack Developer & Aspiring AI/ML Engineer"
+        self.stack       = [
+            "React.js", "Next.js", "Flask",
+            "Python", "JavaScript", "PHP",
+            "MySQL", "Oracle DB"
+        ]
+        self.ai_tools    = [
+            "TensorFlow", "Scikit-Learn",
+            "NumPy", "Pandas", "OpenAI API"
+        ]
+        self.learning    = [
+            "Advanced Machine Learning",
+            "LLM Fine-tuning",
+            "System Design"
+        ]
+        self.fun_fact    = "I built an ERP system while still in my first year of college 🚀"
+
+    def motto(self) -> str:
+        return "Build things that matter. Ship with purpose. 💡"
+
+me = VinayaV()
+print(me.motto())
+```
+
+
 <br clear="right"/>
 
 - 🔭 Currently building AI-powered applications and full-stack platforms
@@ -196,8 +227,7 @@
 🧠  LLM & Generative AI        →  Fine-tuning, RAG pipelines, Prompt Engineering
 🏗️  System Design               →  Scalability, Microservices, API Architecture
 ⚛️  Full Stack Mastery          →  Next.js, Advanced React Patterns, REST & GraphQL
-☁️  Cloud & DevOps              →  Docker, CI/CD basics, Cloud deployment
-📊  Data Science                →  Feature Engineering, Model Evaluation, Deployment
+📐  DSA                         →  Arrays, Linked Lists, Trees, Graphs, DP
 ```
 
 ---
