@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vinaya+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Intelligent+%26+Scalable+Web+Apps;10%2B+Projects+Across+Web+%26+AI+Systems)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vinayavinodh07&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/vinayavinodh07)
+[![Profile Views](https://komarev.com/ghpvc/?username=vinaya2007&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/vinaya2007)
 [![Gmail](https://img.shields.io/badge/Gmail-vinayavinodh07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinayavinodh07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinaya%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayavinodh07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://github.com/vinayavinodh07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://github.com/vinaya2007)
 
 </div>
 
@@ -50,7 +50,7 @@ print(me.motto())
 <br clear="right"/>
 
 - 🔭 Currently building AI-powered applications and full-stack platforms
-- 🌱 Actively deepening skills in **Data Structures & Algorithms**
+- 🌱 Actively deepening skills in **Machine Learning & LLMs**
 - 🏆 Contributed to **Smart India Hackathon 2025**
 - 🎙️ Secretary (BOD) & Treasurer at **InkVerse Club, SRMIST**
 - 💬 Ask me about **React, Python, Flask, AI integration, or anything full-stack**
@@ -84,6 +84,7 @@ print(me.motto())
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
 
 **Tools & Platforms**
 
@@ -100,10 +101,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/vinaya2007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinayavinodh07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinaya2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
 <a href="https://github.com/vinaya2007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayavinodh07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaya2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -114,7 +115,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vinayavinodh07&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vinaya2007&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -124,7 +125,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Vinaya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinayavinodh07&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/vinayavinodh07)
+[![Vinaya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinaya2007&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/vinaya2007)
 
 </div>
 
@@ -134,7 +135,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=vinayavinodh07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=vinaya2007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -237,7 +238,7 @@ print(me.motto())
 
 *— Vinaya V*
 
-[![Gmail](https://img.shields.io/badge/Say%20Hello!-vinaya2007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayavinodh07@gmail.com)
+[![Gmail](https://img.shields.io/badge/Say%20Hello!-vinayavinodh07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayavinodh07@gmail.com)
 
 </div>
 
