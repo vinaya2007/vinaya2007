@@ -6,8 +6,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vinaya2007&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/vinaya2007)
 [![Gmail](https://img.shields.io/badge/Gmail-vinayavinodh07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinayavinodh07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinaya%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayavinodh07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://github.com/vinaya2007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinaya%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaya-v-667786325/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://github.com/Portfolio)
 
 </div>
 
@@ -51,9 +51,9 @@ print(me.motto())
 <br clear="right"/>
 
 - 🔭 Currently building AI-powered applications and full-stack platforms
-- 🌱 Actively deepening skills in **Machine Learning & LLMs**
+- 🌱 Actively deepening skills in **Machine Learning & Data Structures and Algorithms**
 - 🏆 Contributed to **Smart India Hackathon 2025**
-- 🎙️ Secretary (BOD) & Treasurer at **InkVerse Club, SRMIST**
+- 🎙️ Secretary (BOD) at **InkVerse Club, SRMIST**
 - 💬 Ask me about **React, Python, Flask, AI integration, or anything full-stack**
 - 📫 Reach me at **vinayavinodh07@gmail.com**
 - 🗣️ Languages: **Malayalam** (Native) · **Tamil** (Fluent) · **English** (Fluent)
@@ -80,12 +80,12 @@ print(me.motto())
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
 
 **Tools & Platforms**
 
