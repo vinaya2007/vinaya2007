@@ -50,7 +50,7 @@ print(me.motto())
 <br clear="right"/>
 
 - 🔭 Currently building AI-powered applications and full-stack platforms
-- 🌱 Actively deepening skills in **Machine Learning & LLMs**
+- 🌱 Actively deepening skills in **Data Structures & Algorithms**
 - 🏆 Contributed to **Smart India Hackathon 2025**
 - 🎙️ Secretary (BOD) & Treasurer at **InkVerse Club, SRMIST**
 - 💬 Ask me about **React, Python, Flask, AI integration, or anything full-stack**
@@ -84,7 +84,6 @@ print(me.motto())
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
 
 **Tools & Platforms**
 
@@ -100,10 +99,10 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/vinayavinodh07">
+<a href="https://github.com/vinaya2007">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinayavinodh07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/vinayavinodh07">
+<a href="https://github.com/vinaya2007">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayavinodh07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
@@ -177,11 +176,11 @@ print(me.motto())
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [**🧪 AI-Powered Virtual Lab Assistant**](https://github.com/vinayavinodh07) | Flask · Python · OpenAI API · TTS | Delivers experiment-wise explanations, diagrams, PDFs & AI-driven viva questions with voice input support — accelerating lab prep for students |
-| [**🧠 AI Life Copilot**](https://github.com/vinayavinodh07) | Python · Flask · OpenAI API · React | Lifestyle intelligence platform for managing health, productivity & habits with intelligent insights and a conversational AI assistant |
-| [**💰 EmpowHer**](https://github.com/vinayavinodh07) | React · Python · AI/ML · MySQL | AI-powered financial guidance platform designed to help women manage budgeting, savings, and financial literacy |
-| [**🚌 TrackPal — Bus Tracker**](https://github.com/vinayavinodh07) | HTML · Tailwind CSS · JavaScript | Contributed to **Smart India Hackathon 2025** prototype — laid the functional front-end foundation for full-scale bus tracking development |
-| [**✍️ InkVerse Club Website**](https://github.com/vinayavinodh07) | React · Tailwind CSS · JavaScript | Official website for InkVerse Club, SRMIST Vadapalani — built collaboratively with user-centric features and club management tools |
+| [**🧪 AI-Powered Virtual Lab Assistant**](https://github.com/vinaya2007) | Flask · Python · OpenAI API · TTS | Delivers experiment-wise explanations, diagrams, PDFs & AI-driven viva questions with voice input support — accelerating lab prep for students |
+| [**🧠 AI Life Copilot**](https://github.com/vinaya2007) | Python · Flask · OpenAI API · React | Lifestyle intelligence platform for managing health, productivity & habits with intelligent insights and a conversational AI assistant |
+| [**💰 EmpowHer**](https://github.com/vinaya2007) | React · Python · AI/ML · MySQL | AI-powered financial guidance platform designed to help women manage budgeting, savings, and financial literacy |
+| [**🚌 TrackPal — Bus Tracker**](https://github.com/vinaya2007) | HTML · Tailwind CSS · JavaScript | Contributed to **Smart India Hackathon 2025** prototype — laid the functional front-end foundation for full-scale bus tracking development |
+| [**✍️ InkVerse Club Website**](https://github.com/vinaya2007) | React · Tailwind CSS · JavaScript | Official website for InkVerse Club, SRMIST Vadapalani — built collaboratively with user-centric features and club management tools |
 
 </div>
 
@@ -238,7 +237,7 @@ print(me.motto())
 
 *— Vinaya V*
 
-[![Gmail](https://img.shields.io/badge/Say%20Hello!-vinayavinodh07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayavinodh07@gmail.com)
+[![Gmail](https://img.shields.io/badge/Say%20Hello!-vinaya2007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayavinodh07@gmail.com)
 
 </div>
 
