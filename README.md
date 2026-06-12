@@ -178,11 +178,11 @@ print(me.motto())
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [**🧪 AI-Powered Virtual Lab Assistant**](https://github.com/vinaya2007) | Flask · Python · OpenAI API · TTS | Delivers experiment-wise explanations, diagrams, PDFs & AI-driven viva questions with voice input support — accelerating lab prep for students |
-| [**🧠 AI Life Copilot**](https://github.com/vinaya2007) | Python · Flask · OpenAI API · React | Lifestyle intelligence platform for managing health, productivity & habits with intelligent insights and a conversational AI assistant |
-| [**💰 EmpowHer**](https://github.com/vinaya2007) | React · Python · AI/ML · MySQL | AI-powered financial guidance platform designed to help women manage budgeting, savings, and financial literacy |
-| [**🚌 TrackPal — Bus Tracker**](https://github.com/vinaya2007) | HTML · Tailwind CSS · JavaScript | Contributed to **Smart India Hackathon 2025** prototype — laid the functional front-end foundation for full-scale bus tracking development |
-| [**✍️ InkVerse Club Website**](https://github.com/vinaya2007) | React · Tailwind CSS · JavaScript | Official website for InkVerse Club, SRMIST Vadapalani — built collaboratively with user-centric features and club management tools |
+| [**🧪 AI-Powered Virtual Lab Assistant**](https://github.com/vinaya2007/AI-Powered-Virtual-Lab-Assistant) | Flask · Python · OpenAI API · TTS | Delivers experiment-wise explanations, diagrams, PDFs & AI-driven viva questions with voice input support — accelerating lab prep for students |
+| [**🧠 AI Life Copilot**](https://github.com/joshuahanielgts/Ai-life-copilot-HF26) | Python · Flask · OpenAI API · React | Lifestyle intelligence platform for managing health, productivity & habits with intelligent insights and a conversational AI assistant |
+| [**💰 EmpowHer**](https://github.com/vinaya2007/EmpowHer) | React · Python · AI/ML · MySQL | AI-powered financial guidance platform designed to help women manage budgeting, savings, and financial literacy |
+| [**🚌 TrackPal — Bus Tracker**](https://github.com/Deeps1970/TrackPal) | HTML · Tailwind CSS · JavaScript | Contributed to **Smart India Hackathon 2025** prototype — laid the functional front-end foundation for full-scale bus tracking development |
+| [**✍️ InkVerse Club Website**](http://github.com/Deeps1970/InkVerse-Blog-Site) | React · Tailwind CSS · JavaScript | Official website for InkVerse Club, SRMIST Vadapalani — built collaboratively with user-centric features and club management tools |
 
 </div>
 
