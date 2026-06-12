@@ -7,15 +7,17 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=vinaya2007&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/vinaya2007)
 [![Gmail](https://img.shields.io/badge/Gmail-vinayavinodh07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinayavinodh07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinaya%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaya-v-667786325/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://github.com/vinaya2007/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-vinaya2007.vercel.app/)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 class VinayaV:
@@ -47,6 +49,14 @@ me = VinayaV()
 print(me.motto())
 ```
 
+</td>
+<td valign="top" width="40%" align="center">
+  <img width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+  <br/>
+  <img width="340" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
@@ -127,16 +137,6 @@ print(me.motto())
 <div align="center">
 
 [![Vinaya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinaya2007&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/vinaya2007)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=vinaya2007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
